@@ -8,7 +8,7 @@ Episode 0 is a short introduction that starts with everyday pet photos and then 
 
 | Episode | Notebook | Topic |
 |---|---|---|
-| 0 | (add notebook name) | How foundation models see images: embeddings, UMAP and interactive similarity search, from pets to pathology |
+| 0 | `ep00_what_are_foundation_models.ipynb` | How foundation models see images: embeddings, UMAP and interactive similarity search, from pets to pathology |
 | 1 | `ep01_foundation_models_embeddings.ipynb` | What a foundation model is; tiles, embeddings, PCA, k-means, UMAP and similarity search |
 | 2 | `ep02_tile_embeddings.ipynb` | Tile embeddings across four cores |
 | 3 | `ep03_cell_embeddings.ipynb` | Cell embeddings, CytoFormer vs H-optimus-0 |
